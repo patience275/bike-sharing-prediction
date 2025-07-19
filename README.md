@@ -24,7 +24,7 @@ https://www.kaggle.com/datasets/joebeachcapital/seoul-bike-sharing
 
 The scatter plot below shows how well the model's predictions match the actual bike rental counts on the test set.
 
-![actual_vs_predicted](predicted bikes.png)
+![actual_vs_predicted](predicted_bikes.png)
 
 - Each dot represents a day's rental count.
 - The red dashed line is the ideal line where prediction = actual.
