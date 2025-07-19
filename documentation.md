@@ -12,19 +12,19 @@ https://www.kaggle.com/datasets/joebeachcapital/seoul-bike-sharing
 ## key features
 - Exploratory Data Analysis (EDA): Conducted comprehensive analysis of the dataset, exploring its structure, data types, and statistical summaries. Identified key features and patterns that impact bike demand, such as time, temperature, and weather conditions.
 
-Data Cleaning and Preprocessing: Cleaned the dataset by handling duplicate values, missing data, and outliers. Ensured the integrity and quality of the data for accurate modeling.
+-Data Cleaning and Preprocessing: Cleaned the dataset by handling duplicate values, missing data, and outliers. Ensured the integrity and quality of the data for accurate modeling.
 
-Feature Engineering: Engineered relevant features and transformed variables to capture meaningful information for prediction. Performed feature encoding, handled multicollinearity, and applied transformations to improve model performance.
+-Feature Engineering: Engineered relevant features and transformed variables to capture meaningful information for prediction. Performed feature encoding, handled multicollinearity, and applied transformations to improve model performance.
 
-Model Training and Evaluation: Trained and evaluated various regression models using a scaled feature set.i used linear regression and cesicion tree models
+-Model Training and Evaluation: Trained and evaluated various regression models using a scaled feature set.i used linear regression and cesicion tree models
 
-Performance Metrics: Evaluated the models using industry-standard metrics such as R-squared, and mean squared error (MSE)
+-Performance Metrics: Evaluated the models using industry-standard metrics such as R-squared, and mean squared error (MSE)
 
 ## Model Performance
 
 The scatter plot below shows how well the model's predictions match the actual bike rental counts on the test set.
 
-
+![actual vs predicted](predicted bikes.png)
 
 - Each dot represents a day's rental count.
 - The red dashed line is the ideal line where prediction = actual.
